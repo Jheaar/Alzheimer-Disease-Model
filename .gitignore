@@ -1,0 +1,29 @@
+# Ignorar datasets y datos de entrenamiento
+dataset/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# Ignorar entornos virtuales
+env/
+.venv/
+venv/
+
+# Archivos de caché y compilación
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de notebooks temporales
+# .ipynb_checkpoints/
+
+# Archivos de configuración o logs
+*.log
+*.csv
+*.json
+*.tmp
+
+# Archivos de sistema (Windows / macOS)
+.DS_Store
+Thumbs.db
