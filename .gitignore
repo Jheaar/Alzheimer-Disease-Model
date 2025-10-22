@@ -27,3 +27,6 @@ __pycache__/
 # Archivos de sistema (Windows / macOS)
 .DS_Store
 Thumbs.db
+
+# Ignora modelos
+*.keras
